@@ -1,1 +1,1 @@
-# Digital-System-Design-Basic
+# *Verilog를 활용하여 간단한 디지털 시스템을 설계해보자!*
